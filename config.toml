@@ -4,7 +4,7 @@ title = "SelectedTech"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
+disqusShortname = "selectedtech"
 googleAnalytics = "UA-146093900-1"
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
@@ -39,7 +39,7 @@ canonifyURLs = true
   # These are stored in the favicon folder. See the following for more information:
   # https://github.com/audreyr/favicon-cheat-sheet
   loadFavicon          = true
-  faviconVersion       = ""
+  faviconVersion       = "1.0.0"
   # Sets Social Share links to appear on posts
   socialShare          = true
   # Sets specific share to appear on posts (default behavior is to appear)
@@ -106,7 +106,7 @@ canonifyURLs = true
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    sidebar = 5
+    sidebar = 3
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
@@ -129,16 +129,10 @@ canonifyURLs = true
   weight = 3
 
 [[menu.main]]
-  name = "Itemized"
-  url = "/itemized/"
-  identifier = "fa fa-list"
-  weight = 4
-
-[[menu.main]]
   name = "Categories"
   url = "/categories/"
   identifier = "fa fa-sitemap"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
   name = "Contact"
@@ -172,11 +166,11 @@ canonifyURLs = true
   #xing             = ""
   #slideshare       = ""
   # Social Networks
-  facebook         = "https://www.facebook.com/SelectedTechPage/"
+  facebook         = "SelectedTechPage"
   #googleplus       = ""
   #reddit           = "example"
   #quora            = ""
-  youtube          = "https://www.youtube.com/watch?v=eBUs5OdqLqI&t=9s"
+  youtube          = "watch?v=eBUs5OdqLqI&t=9s"
   #vimeo            = ""
   #whatsapp         = "" # WhatsApp Number
     # WeChat and QQ need testing.
@@ -184,7 +178,7 @@ canonifyURLs = true
   #  qq             = "" # User ID Number
 #"instagram        = "example"
  # tumblr           = ""
-  twitter          = "https://twitter.com/SelectedTech"
+  twitter          = "SelectedTech"
  # skype            = ""
  # snapchat         = ""
  # pinterest        = "example"

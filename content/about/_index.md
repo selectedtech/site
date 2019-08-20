@@ -1,6 +1,6 @@
 +++ 
 title = "About SelectedTech" 
-date = "2019-08-18" 
+date = "2019-05-19" 
 +++
 
 SelectedTech is a group of four MVPs doing webinars and sessions on SharePoint, Office365 and the Microsoft AI ecosystem. Learn, Share, Reuse. We are Albert-Jan Schot, Rick Van Rousselt, Stephan Bisser and Thomy Gölles.
