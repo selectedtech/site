@@ -1,0 +1,20 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- master
+
+pool:
+  name: Hosted
+steps:
+- task: giuliovdev.hugo-extension.hugo-build-task.HugoTask@1
+  displayName: 'Generate blog output'
+  inputs:
+    source: '$(Build.SourcesDirectory)'
+    destination: '$(Build.ArtifactStagingDirectory)'
+    baseURL: 'https://www.selectedtech.show/'
+
+- task: PublishBuildArtifacts@1
+  displayName: 'Publish Artifact: drop'
