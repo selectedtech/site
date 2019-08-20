@@ -39,7 +39,7 @@ canonifyURLs = true
   # These are stored in the favicon folder. See the following for more information:
   # https://github.com/audreyr/favicon-cheat-sheet
   loadFavicon          = true
-  faviconVersion       = "2.0.0"
+  faviconVersion       = ""
   # Sets Social Share links to appear on posts
   socialShare          = true
   # Sets specific share to appear on posts (default behavior is to appear)
