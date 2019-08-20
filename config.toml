@@ -5,7 +5,7 @@ theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "shortname"
-googleAnalytics = ""
+googleAnalytics = "UA-146093900-1"
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
 enableRobotsTXT = true
@@ -31,26 +31,26 @@ canonifyURLs = true
   # Sets Categories to sort by number of posts instead of alphabetical
   categoriesByCount    = true
   # set to show or to hide categories in the sidebar
-  showSidebarCategories = true
+  showSidebarCategories = false
   # Sets Estimated Reading Time to appear in post headers
   includeReadingTime   = true
   # Sets the Favicon and Version for the site. Default support is for
   # apple-touch-icon-precomposed.png, favicon.png, favicon.ico, and mstile.png.
   # These are stored in the favicon folder. See the following for more information:
   # https://github.com/audreyr/favicon-cheat-sheet
-  loadFavicon          = false
+  loadFavicon          = true
   faviconVersion       = ""
   # Sets Social Share links to appear on posts
   socialShare          = true
   # Sets specific share to appear on posts (default behavior is to appear)
   socialShareTwitter   = true
-  socialShareGoogleplus = true
+  socialShareGoogleplus = false
   socialShareFacebook  = true
-  socialShareReddit    = true
+  socialShareReddit    = false
   socialShareLinkedin  = true
-  socialShareStumbleupon = true
-  socialSharePinterest = true
-  socialShareEmail     = true
+  socialShareStumbleupon = false
+  socialSharePinterest = false
+  socialShareEmail     = false
 
   # Load custom CSS or JavaScript files. The variable is an array so that you
   # can load multiple files if necessary. You can also load the standard theme
