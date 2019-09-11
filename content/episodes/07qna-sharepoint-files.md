@@ -23,4 +23,4 @@ We are happy to announce that there are new options to follow our podcast! You c
 
 <a data-fancybox href="https://youtu.be/y61itx6lYYg">
     <img class="card-img-top img-fluid" src="https://img.youtube.com/vi/y61itx6lYYg/mqdefault.jpg">
-</a>https://youtu.be/y61itx6lYYg
+</a>
