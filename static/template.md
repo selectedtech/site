@@ -1,4 +1,4 @@
-{{/*+++
++++
 author = "SelectedTech"
 categories = ["Azure","Development","SharePoint"]
 date = "2019-09-11"
@@ -24,4 +24,3 @@ We are happy to announce that there are new options to follow our podcast! You c
 </a>
 
 
-*/}}

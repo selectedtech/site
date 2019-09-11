@@ -14,6 +14,7 @@ type = "post"
 In episode 7 of our SelectedTech podcast/webinar series, we try to add secured SharePoint data as a data source to our knowledge base. It takes some additional steps then described in the Microsoft documentation but we finally get it working.
 
 Shownotes of episode 7
+
 [Add a secured SharePoint data source to your knowledge base](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/add-sharepoint-datasources)
 
 Updates from SelectedTech
