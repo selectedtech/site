@@ -23,7 +23,7 @@ Shownotes of episode 6
 Microsoft article – [Difference between PowerApps inside of Office365 and outside](https://docs.microsoft.com/en-us/power-platform/admin/pricing-billing-skus)
 
 Updates from SelectedTech
-We are happy to announce that there are new options to follow our podcast! You can reach us now on [Facebook](https://www.facebook.com/SelectedTechPage/) on [Twitter](https://twitter.com/selectedtech). Or you can follow our podcast at [http://podcast.selectedtech.show/]http://podcast.selectedtech.show/ and sync it with Spotify, Apple Podcasts, Overcast and some other services.
+We are happy to announce that there are new options to follow our podcast! You can reach us now on [Facebook](https://www.facebook.com/SelectedTechPage/) on [Twitter](https://twitter.com/selectedtech). Or you can follow our podcast at [http://podcast.selectedtech.show/](http://podcast.selectedtech.show/) and sync it with Spotify, Apple Podcasts, Overcast and some other services.
 
 <a data-fancybox href="https://youtu.be/hsv2dtf_t0s">
     <img class="card-img-top img-fluid" src="https://img.youtube.com/vi/hsv2dtf_t0s/mqdefault.jpg">

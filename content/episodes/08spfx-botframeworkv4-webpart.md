@@ -20,7 +20,7 @@ Shownotes of episode 8
 
 **Updates from SelectedTech**
 
-Like always you can reach us on [Facebook](https://www.facebook.com/SelectedTechPage/) and on [Twitter](https://twitter.com/selectedtech). Or you can follow our podcast at [http://podcast.selectedtech.show/]http://podcast.selectedtech.show/ and sync it with Spotify, Apple Podcasts, Overcast and some other services.
+Like always you can reach us on [Facebook](https://www.facebook.com/SelectedTechPage/) and on [Twitter](https://twitter.com/selectedtech). Or you can follow our podcast at [http://podcast.selectedtech.show/](http://podcast.selectedtech.show/) and sync it with Spotify, Apple Podcasts, Overcast and some other services.
 
 Check out the video below. 
 
