@@ -26,5 +26,5 @@ If you already work with Postman here two additional resources from the Microsof
 
 Or just listen to the episode here:
 
-<div id="buzzsprout-player-1467790"></div>
-<script src="https://www.buzzsprout.com/482989/1467790-interview-with-anna-chu-from-microsoft.js?container_id=buzzsprout-player-1467790&player=small" type="text/javascript" charset="utf-8"></script>
+<div id="buzzsprout-player-1467490"></div>
+<script src="https://www.buzzsprout.com/482989/1467490-qna-maker-postman-collection.js?container_id=buzzsprout-player-1467490&player=small" type="text/javascript" charset="utf-8"></script>

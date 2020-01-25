@@ -25,3 +25,8 @@ Or just listen to the episode here:
 
 <div id="buzzsprout-player-1467445"></div>
 <script src="https://www.buzzsprout.com/482989/1467445-qna-bot-local-development.js?container_id=buzzsprout-player-1467445&player=small" type="text/javascript" charset="utf-8"></script>
+
+Or listen to the podcast episode here:
+
+<div id="buzzsprout-player-1467445"></div>
+<script src="https://www.buzzsprout.com/482989/1467445-qna-bot-local-development.js?container_id=buzzsprout-player-1467445&player=small" type="text/javascript" charset="utf-8"></script>

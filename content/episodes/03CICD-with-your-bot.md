@@ -24,3 +24,8 @@ Or just listen to the episode here:
 
 <div id="buzzsprout-player-1467790"></div>
 <script src="https://www.buzzsprout.com/482989/1467790-interview-with-anna-chu-from-microsoft.js?container_id=buzzsprout-player-1467790&player=small" type="text/javascript" charset="utf-8"></script>
+
+Or listen to the podcast episode here:
+
+<div id="buzzsprout-player-1467475"></div>
+<script src="https://www.buzzsprout.com/482989/1467475-ci-cd-with-your-bot-and-azure-devops.js?container_id=buzzsprout-player-1467475&player=small" type="text/javascript" charset="utf-8"></script>

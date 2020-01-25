@@ -29,4 +29,7 @@ Check out the video below.
     <img src="/img/play.gif" style="position: relative; width:auto; background:transparent;top: -75px; left: -190px;"/>
 </a>
 
+Or listen to the podcast episode here:
 
+<div id="buzzsprout-player-1756000"></div>
+<script src="https://www.buzzsprout.com/482989/1756000-spfx-bot-framework-v4-webpart.js?container_id=buzzsprout-player-1756000&player=small" type="text/javascript" charset="utf-8"></script>
