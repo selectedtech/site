@@ -15,5 +15,10 @@ And the audio only podcasts on:
 
 [Full RSS Feed](https://feeds.buzzsprout.com/482989.rss)
 
+Sample screenshot of the page:
+![SelctedTechWebpage](SelectedTechWebsite.png)
+
+
+
 ##Theme
 We use the Hugo Future Imperfect theme and we would like to express our thanks to [@julio_pescador](https://twitter.com/julio_pescador) and the contributors of this awesome community driven project. More information can be found at in there [repository](https://github.com/jpescador/hugo-future-imperfect)
