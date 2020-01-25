@@ -1,9 +1,10 @@
 # SelectedTech Public Website
 This repository contains the contents and templates for our website
 
-You can find our webinars on:
-- [YouTube](https://www.youtube.com/channel/UC06iQ_SyfdKsveFmKwFtC4Q)
+### Webinar Videos
+You can find our webinars on our [YouTube](https://www.youtube.com/channel/UC06iQ_SyfdKsveFmKwFtC4Q) channel.
 
+### Podcast links
 And the audio-only podcasts on:
 - [iTunes](https://podcasts.apple.com/at/podcast/selectedtech-podcast/id1474533334)
 - [Overcast](https://overcast.fm/itunes1474533334)
