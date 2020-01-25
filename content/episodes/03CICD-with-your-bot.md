@@ -17,4 +17,10 @@ In this episode Stephan demos how to create a build and release pipeline within 
 
 <a data-fancybox href="https://youtu.be/6Wm1mK_KBAk">
     <img class="card-img-top img-fluid" src="https://img.youtube.com/vi/6Wm1mK_KBAk/mqdefault.jpg">
+    <img src="/img/play.gif" style="position: relative; width:auto; background:transparent;top: -75px; left: -190px;"/>
 </a>
+
+Or just listen to the episode here:
+
+<div id="buzzsprout-player-1467790"></div>
+<script src="https://www.buzzsprout.com/482989/1467790-interview-with-anna-chu-from-microsoft.js?container_id=buzzsprout-player-1467790&player=small" type="text/javascript" charset="utf-8"></script>

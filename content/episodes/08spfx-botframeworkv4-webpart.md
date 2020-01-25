@@ -26,6 +26,7 @@ Check out the video below.
 
 <a data-fancybox href="https://youtu.be/8wVTwsDg6_A">
     <img class="card-img-top img-fluid" src="https://img.youtube.com/vi/8wVTwsDg6_A/mqdefault.jpg">
+    <img src="/img/play.gif" style="position: relative; width:auto; background:transparent;top: -75px; left: -190px;"/>
 </a>
 
 

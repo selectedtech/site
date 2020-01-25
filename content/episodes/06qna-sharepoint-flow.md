@@ -27,4 +27,10 @@ We are happy to announce that there are new options to follow our podcast! You c
 
 <a data-fancybox href="https://youtu.be/hsv2dtf_t0s">
     <img class="card-img-top img-fluid" src="https://img.youtube.com/vi/hsv2dtf_t0s/mqdefault.jpg">
+    <img src="/img/play.gif" style="position: relative; width:auto; background:transparent;top: -75px; left: -190px;"/>
 </a>
+
+Or just listen to the episode here:
+
+<div id="buzzsprout-player-1520299"></div>
+<script src="https://www.buzzsprout.com/482989/1520299-qnamaker-sharepoint-and-microsoft-flow.js?container_id=buzzsprout-player-1520299&player=small" type="text/javascript" charset="utf-8"></script>
