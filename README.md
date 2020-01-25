@@ -16,7 +16,7 @@ And the audio-only podcasts on:
 [Full RSS Feed](https://feeds.buzzsprout.com/482989.rss)
 
 Sample screenshot of the page:
-![SelctedTechWebpage](SelectedTechWebsite.png)
+![SelectedTech Website](SelectedTechWebsite.png)
 
 
 ##Theme
