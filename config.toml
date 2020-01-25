@@ -198,3 +198,6 @@ canonifyURLs = true
 #  latexDashes       = true
 #[params]
 #googleAnalytics
+
+[markup.goldmark.renderer]
+unsafe= true
