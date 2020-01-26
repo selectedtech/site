@@ -26,15 +26,15 @@ Like always you can reach us on [Facebook](https://www.facebook.com/SelectedTech
 Check out the video below. 
 
 <div class ="video">
-    <a href="https://youtu.be/cTlsMwJvpbE" data-fancybox="galerie1">
-        <img class="card-img-top img-fluid" src="https://img.youtube.com/vi/cTlsMwJvpbE/mqdefault.jpg">
+    <a href="https://youtu.be/vkC0xDYVMKw" data-fancybox="galerie1">
+        <img class="card-img-top img-fluid" src="https://img.youtube.com/vi/vkC0xDYVMKw/mqdefault.jpg">
         <img src="/img/play.gif" style="position: relative; width:auto; background:transparent;top: -75px; left: -190px;"/>
     </a>
 </div>
 
-Or just listend to the audio here:
+Or just listen to the audio here:
 
-<div id="buzzsprout-player-2572504"></div>
-<script src="https://www.buzzsprout.com/482989/2572504-episode-009-building-an-azure-static-website.js?container_id=buzzsprout-player-2572504&player=small" type="text/javascript" charset="utf-8"></script>
+<div id="buzzsprout-player-2575123"></div>
+<script src="https://www.buzzsprout.com/482989/2575123-deploying-the-faq-plus-app.js?container_id=buzzsprout-player-2575123&player=small" type="text/javascript" charset="utf-8"></script>
 
 
