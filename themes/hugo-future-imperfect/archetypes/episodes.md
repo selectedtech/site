@@ -17,12 +17,16 @@ draft = true
 
 Introduction text
 
-<a data-fancybox href="https://youtu.be/eBUs5OdqLqI">
-    <img class="card-img-top img-fluid" src="https://img.youtube.com/vi/eBUs5OdqLqI/mqdefault.jpg">
-    <img src="/img/play.gif" style="position: relative; width:auto; background:transparent;top: -75px; left: -190px;"/>
-</a>
+### Show notes of episode no
+
+- [Someurl](https://www.selectedtech.show)
+
+{{< youtube nmLS1C9KxMk >}}
 
 Or just listen to the episode here:
 
-<div id="buzzsprout-player-1467433"></div>
-<script src="https://www.buzzsprout.com/482989/1467433-a-no-code-qna-bot-in-microsoft-teams.js?container_id=buzzsprout-player-1467433&player=small" type="text/javascript" charset="utf-8"></script>
+{{< buzzsprout 2578093 >}}
+
+### Updates from SelectedTech
+
+Like always you can reach us on [Facebook](https://www.facebook.com/SelectedTechPage/) and [Twitter](https://twitter.com/selectedtech). Or you can follow our podcast at [http://podcast.selectedtech.show/](http://podcast.selectedtech.show/) and sync it with Spotify, Apple Podcasts, Overcast and some other services.

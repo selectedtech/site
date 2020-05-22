@@ -13,19 +13,16 @@ type = "post"
 
 In episode 7 of our SelectedTech podcast/webinar series, we try to add secured SharePoint data as a data source to our knowledge base. It takes some additional steps than described in the Microsoft documentation but we finally get it working.
 
-Shownotes of episode 7:
+## Show notes of episode 7
+
 - [Add a secured SharePoint data source to your knowledge base](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/add-sharepoint-datasources)
 
-**Updates from SelectedTech**
+## Updates from SelectedTech
 
 We are happy to announce that there are new options to follow our podcast! You can reach us now on [Facebook](https://www.facebook.com/SelectedTechPage/) on [Twitter](https://twitter.com/selectedtech). Or you can follow our podcast at [http://podcast.selectedtech.show/](http://podcast.selectedtech.show/) and sync it with Spotify, Apple Podcasts, Overcast and some other services.
 
-<a data-fancybox href="https://youtu.be/y61itx6lYYg">
-    <img class="card-img-top img-fluid" src="https://img.youtube.com/vi/y61itx6lYYg/mqdefault.jpg">
-    <img src="/img/play.gif" style="position: relative; width:auto; background:transparent;top: -75px; left: -190px;"/>
-</a>
+{{< youtube y61itx6lYYg >}}
 
 Or just listend to the audio here:
 
-<div id="buzzsprout-player-1692595"></div>
-<script src="https://www.buzzsprout.com/482989/1692595-qnamaker-with-secured-sharepoint-data.js?container_id=buzzsprout-player-1692595&player=small" type="text/javascript" charset="utf-8"></script>
+{{< buzzsprout 1692595 >}}

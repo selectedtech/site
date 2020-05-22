@@ -13,7 +13,7 @@ type = "post"
 
 In Episode....
 
-Shownotes of episode ?
+Show notes of episode ?
 [Add a secured SharePoint data source to your knowledge base](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/add-sharepoint-datasources)
 
 Updates from SelectedTech

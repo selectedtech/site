@@ -19,12 +19,8 @@ QnA Maker offers a [REST API](https://docs.microsoft.com/en-us/rest/api/cognitiv
 
 If you already work with Postman here two additional resources from the Microsoft Graph Developer Blog. First, Day 13 from the 30 DaysMSGraph series, [“Postman to make Microsoft Graph calls”](https://developer.microsoft.com/en-us/graph/blogs/30daysmsgraph-day-13-postman-to-make-microsoft-graph-calls/). This blog post explains how to configure your environment to connect to Microsoft Graph with one click. And as a second, [“Announcing Microsoft Graph Postman Collections”](https://developer.microsoft.com/en-us/graph/blogs/postman-collections/) again from the Graph Developer Blog written by Jeremy Thake.
 
-<a data-fancybox href="https://youtu.be/MJ5suH3X0FY">
-    <img class="card-img-top img-fluid" src="https://img.youtube.com/vi/MJ5suH3X0FY/mqdefault.jpg">
-    <img src="/img/play.gif" style="position: relative; width:auto; background:transparent;top: -75px; left: -190px;"/>
-</a>
+{{< youtube MJ5suH3X0FY >}}
 
 Or just listen to the episode here:
 
-<div id="buzzsprout-player-1467490"></div>
-<script src="https://www.buzzsprout.com/482989/1467490-qna-maker-postman-collection.js?container_id=buzzsprout-player-1467490&player=small" type="text/javascript" charset="utf-8"></script>
+{{< buzzsprout 1467490 >}}
