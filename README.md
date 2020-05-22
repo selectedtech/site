@@ -2,7 +2,7 @@
 
 This repository contains the contents and templates for our website.
 
-Start a new blog using: `hugo episodes/epinotitle-ofcast.md`
+Start a new blog using: `hugo new episodes/epinotitle-ofcast.md`
 
 ## Webinar Videos
 

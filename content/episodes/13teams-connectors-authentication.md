@@ -1,21 +1,21 @@
 +++
 author = "SelectedTech"
-categories = ["Azure","Bot","Teams","Webinar"]
-date = {{ .Date }}
-description = "SelectedTech Webinar {{ replace .Name "-" " " | title }}"
-featured = "Episode012.png"
-featuredalt = "Episode12"
+categories = ["Chatbot","Bot","Teams","Webinar"]
+date = 2020-05-22T16:37:58+02:00
+description = "SelectedTech Webinar 13 Teams Connectors and Authentication"
+featured = "Episode013.png"
+featuredalt = "Episode 13"
 featuredpath = "date"
 linktitle = ""
-title = "{{ replace .Name "-" " " | title }}"
+title = "Teams Connectors and Authentication"
 type = "post"
-url = "{{.Name}}"
+url = "13teams-connectors-authentication"
 draft = true
 +++
 
 Introduction text
 
-### Show notes of episode no
+### Show notes of episode 13
 
 - [Someurl](https://www.selectedtech.show)
 
