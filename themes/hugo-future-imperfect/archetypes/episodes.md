@@ -9,7 +9,8 @@ featuredpath = "date"
 linktitle = ""
 title = "{{ replace .Name "-" " " | title }}"
 type = "post"
-
+url = "{{.Name}}"
+draft = true
 +++
 
 ## {{ replace .Name "-" " " | title }}
