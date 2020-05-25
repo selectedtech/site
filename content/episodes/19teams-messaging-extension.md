@@ -2,18 +2,18 @@
 author = "SelectedTech"
 categories = ["Bots","Teams","MessagingExtension","Webinar"]
 date = 2020-05-25T20:21:32+02:00
-description = "SelectedTech Webinar 19 Teams Messaging Extension with Botframework"
+description = "SelectedTech Webinar 19 Teams Messaging Extension with Bot Framework"
 featured = "Episode019.jpg"
 featuredalt = "Episode10"
 featuredpath = "date"
 linktitle = ""
-title = "Teams Messaging Extension with Botframework"
+title = "Teams Messaging Extension with Bot Framework"
 type = "post"
 url = "19teams-messaging-extension"
 draft = true
 +++
 
-In this episode Stephan is walking you through all the options you have when you are building a messaging extension. Showing you how you can easily use the Botframework to extend teams. Making it easy to track your todos by adding conversations and messages to planner ot todo righty from the teams client. Awesome demo time!
+In this episode Stephan is walking you through all the options you have when you are building a messaging extension. Showing you how you can easily use the Bot Framework to extend teams. Making it easy to track your todos by adding conversations and messages to planner ot todo righty from the teams client. Awesome demo time!
 
 ### Show notes of episode no
 
