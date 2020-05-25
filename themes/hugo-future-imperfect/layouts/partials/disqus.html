@@ -1,0 +1,28 @@
+{{ if ne .Params.comments false}}
+{{ if .Site.DisqusShortname }}
+
+<div class="disqus"></div>
+<div class="disqus-loading">Loading comments&hellip;</div>
+
+<script src="{{ "js/disqusloader.js" | absURL}}"></script>
+<script>
+
+	disqusLoader('.disqus',
+		{
+			scriptUrl: '//{{ .Site.DisqusShortname }}.disqus.com/embed.js',
+			disqusConfig: function () {
+				this.page.identifier = '{{ .Permalink }}';
+				this.page.url = '{{ .Permalink }}';
+				this.callbacks.onReady = [function () {
+					var el = document.querySelector('.disqus-loading');
+					if (el.classList)
+						el.classList.add('is-hidden'); // IE 10+
+					else
+						el.className += ' ' + 'is-hidden'; // IE 8-9
+				}];
+			}
+		});
+
+</script>
+
+{{ end }}{{ end }}
