@@ -1,16 +1,15 @@
 +++
 author = "SelectedTech"
 categories = ["Office365","PnP","SharePoint","Webinar"]
-date = 2020-05-22T16:27:58+02:00
+date = 2020-01-20T16:27:58+02:00
 description = "SelectedTech Webinar 12 Tips & tricks for your Office dev tenant"
-featured = "Episode012.png"
-featuredalt = "Epiose 12"
+featured = "Episode012.jpg"
+featuredalt = "Episode 12"
 featuredpath = "date"
 linktitle = ""
 title = "Tips & tricks for your Office dev tenant"
 type = "post"
 url = "12tips-tricks-officedevtenant"
-draft = true
 +++
 
 In this episode Thommy talks us through some best practices for your Development or Demo tenant. He shares his tips to make sure your development tenant stays clean and healthy. Including demo's on how to make sure you have demo content and can provide cool demos!
@@ -22,11 +21,11 @@ In this episode Thommy talks us through some best practices for your Development
 - [PnP PowerShell](https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 - [PnP Provisioning engine](https://provisioning.sharepointpnp.com/)
 
-{{< youtube nmLS1C9KxMk >}}
+{{< youtube aqS5A0PFesI >}}
 
 Or just listen to the episode here:
 
-{{< buzzsprout 2578093 >}}
+{{< buzzsprout 3909818 >}}
 
 ### Updates from SelectedTech
 
