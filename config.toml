@@ -60,15 +60,6 @@ canonifyURLs = true
   customCSS            = ["default"]
   customJS             = ["default"]
 
-  # options for highlight.js (version, additional languages, and theme)
-  disable_highlight = false # set to true to disable Highlight
-  highlightjsVersion = "9.11.0"
-  highlightjsCDN = "//cdn.bootcss.com"
-  highlightjsLang = ["r", "yaml", "css"]
-  highlightjsTheme = "github"
-  MathJaxCDN = "//cdn.bootcss.com"
-  MathJaxVersion = "2.7.1"
-
 # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
 # due to its ease of use. Feel free to check out both and decide what you would
 # prefer to use. See Staticman.yml for additional settings.
@@ -146,58 +137,10 @@ canonifyURLs = true
 [social]
   # Coding Communities
   github           = "selectedtech"
-  #gitlab           = ""
-  #stackoverflow    = "" # User Number
-  #bitbucket        = ""
-  #jsfiddle         = ""
-  #codepen          = ""
-  # Visual Art Communities
-  #deviantart       = ""
-  #flickr           = "example"
-  #behance          = ""
-  #dribbble         = ""
-  # Publishing Communities
-  #wordpress        = ""
-  #medium           = ""
-  # Professional/Business Oriented Communities
-  #linkedin         = "example"
-  #linkedin_company = "examplebusiness"
-  #foursquare       = ""
-  #xing             = ""
-  #slideshare       = ""
-  # Social Networks
   facebook         = "SelectedTechPage"
-  #googleplus       = ""
-  #reddit           = "example"
-  #quora            = ""
   youtube          = "channel/UC06iQ_SyfdKsveFmKwFtC4Q"
-  #vimeo            = ""
-  #whatsapp         = "" # WhatsApp Number
-    # WeChat and QQ need testing.
-  #  wechat         = ""
-  #  qq             = "" # User ID Number
-#"instagram        = "example"
- # tumblr           = ""
   twitter          = "SelectedTech"
- # skype            = ""
- # snapchat         = ""
- # pinterest        = "example"
- # telegram         = "example"
- # vine             = ""
- # googlescholar    = ""
- # orcid            = ""
- # researchgate     = "example"
-  # Email
- # email            = "example"
 
-
-#[blackfriday]
-#    plainIDAnchors    = true
-#    hrefTargetBlank   = true
-#  angledQuotes      = false
-#  latexDashes       = true
-#[params]
-#googleAnalytics
 
 [markup.goldmark.renderer]
 unsafe= true
