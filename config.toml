@@ -27,7 +27,7 @@ canonifyURLs = true
   rssAppearAtBottom    = true
   # Sets Social Media icons to appear on the sidebar
   socialAppearAtTop    = true
-  socialAppearAtBottom = true
+  socialAppearAtBottom = false
   # Sets Categories to sort by number of posts instead of alphabetical
   categoriesByCount    = true
   # set to show or to hide categories in the sidebar

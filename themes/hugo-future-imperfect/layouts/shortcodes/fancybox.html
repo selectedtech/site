@@ -44,7 +44,6 @@
     {{ end }}
 
     {{ $.Scratch.Set "structType" "shortcode" }}
-    {{ partial "img-path" . }}
 
     {{ $path := $.Scratch.Get "path" }}
     {{ $file := $.Scratch.Get "file" }}
@@ -52,7 +51,7 @@
     {{ $gallery := $.Scratch.Get "gallery" }}
 
     <div class="fancybox">
-      <a data-fancybox="{{ $gallery }}" href="{{ $path }}/{{ $file }}" data-caption="{{ $caption }}"><img src="{{ $path }}/{{ $file }}"></a>
+      <a data-fancybox="{{ $gallery }}" href="{{ $file | absURL }}" data-caption="{{ $caption }}"><img src="{{ $file | absURL }}"></a>
       <!--<div class="caption">{{ $caption }}</div>-->
     </div>
   {{ end }}

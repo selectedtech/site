@@ -1,5 +1,4 @@
     </div>
-    <a id="back-to-top" href="#" class="fa fa-arrow-up fa-border fa-2x"></a>
     <!-- Scripts -->
 
     {{ if isset .Site.Params "customjs" }}
@@ -16,7 +15,6 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.js"></script>
       <script src="{{ "js/util.js" | relURL }}"></script>
       <script src="{{ "js/main.js" | relURL }}"></script>
-      <script src="{{ "js/backToTop.js" | relURL }}"></script>
     {{ end }}
 
     {{ if ne ($.Scratch.Get "jsFiles") false }}

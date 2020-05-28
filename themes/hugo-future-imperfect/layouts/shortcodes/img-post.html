@@ -49,20 +49,19 @@
     {{ $alt  := $.Scratch.Get "alt" }}
 
     {{ $.Scratch.Set "structType" "shortcode" }}
-    {{ partial "img-path" . }}
-    {{ $path := $.Scratch.Get "path" }}
+
 
     {{ if eq $type "left" }}
         <span class="image left">
-            <img src="{{ $path }}/{{ $file }}" alt="{{ $alt }}">
+            <img src="{{ $file | absURL}}" alt="{{ $alt }}">
         </span>
     {{ else if eq $type "right" }}
         <span class="image right">
-            <img src="{{ $path }}/{{ $file }}" alt="{{ $alt }}">
+            <img src="{{ $file | absURL}}" alt="{{ $alt }}">
         </span>
     {{ else }}
         <p><span class="image center">
-            <img src="{{ $path }}/{{ $file }}" alt="{{ $alt }}">
+            <img src="{{ $file | absURL}}" alt="{{ $alt }}">
         </span></p>
     {{ end }}
 {{ end }}
