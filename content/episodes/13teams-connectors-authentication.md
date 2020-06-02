@@ -7,23 +7,24 @@ featured = "/img/2020/Episode013.jpg"
 featuredalt = "Episode 13"
 featuredpath = "date"
 linktitle = ""
-title = "Teams Connectors and Authentication"
+title = "Authenticate incoming webhooks in Teams"
 type = "post"
-url = "13teams-connectors-authentication"
+url = "13authenticate-incoming-webhooks-Teams"
 draft = true
 +++
 
-Introduction text
+Another episode full of fun! In this episode Rick explains how you can authenticate on incoming webhooks. Webhooks allow you to extend the conversation in teams and to send notifications from other applications. But making sure they are secure is important as it will help you prevent unwanted data in teams. By default webhooks are not authenticated so it does require some development but once it is in place you are safe!
 
 ### Show notes of episode 13
 
-- [Someurl](https://www.selectedtech.show)
+- [How-to Teams incoming webhooks](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook)
+- [Adaptive cards](https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/what-are-cards)
 
-{{< youtube nmLS1C9KxMk >}}
+{{< youtube u8TZmemlPKk >}}
 
 Or just listen to the episode here:
 
-{{< buzzsprout 2578093 >}}
+{{< buzzsprout 4013057 >}}
 
 ### Updates from SelectedTech
 
