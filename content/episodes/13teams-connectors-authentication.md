@@ -10,7 +10,6 @@ linktitle = ""
 title = "Authenticate incoming webhooks in Teams"
 type = "post"
 url = "13authenticate-incoming-webhooks-Teams"
-draft = true
 +++
 
 Another episode full of fun! In this episode Rick explains how you can authenticate on incoming webhooks. Webhooks allow you to extend the conversation in teams and to send notifications from other applications. But making sure they are secure is important as it will help you prevent unwanted data in teams. By default webhooks are not authenticated so it does require some development but once it is in place you are safe!
