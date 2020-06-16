@@ -10,7 +10,6 @@ linktitle = ""
 title = "Performance optimization in Hugo"
 type = "post"
 url = "14performance-hugo"
-draft = true
 +++
 
 As we are running our Selected Tech site as a static site on [Hugo](https://gohugo.io/) we spend an episode looking on how to tweak performance. Appie shows us on how to use [Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/) to tweak the Hugo output and maximize the performance score of a site. Including tips & tricks and of course the best practices applied to our blogs and selected tech site.
@@ -19,11 +18,11 @@ As we are running our Selected Tech site as a static site on [Hugo](https://gohu
 
 - [Hugo Performance Improvements](https://www.cloudappie.nl/hugo-performance-improvements/)
 
-{{< youtube nmLS1C9KxMk >}}
+{{< youtube 1lyLT2i136Q >}}
 
 Or just listen to the episode here:
 
-{{< buzzsprout 2578093 >}}
+{{< buzzsprout 482989 >}}
 
 ### Updates from SelectedTech
 
