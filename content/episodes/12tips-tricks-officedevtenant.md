@@ -1,7 +1,7 @@
 +++
 author = "SelectedTech"
 categories = ["Office365","PnP","SharePoint","Webinar"]
-date = 2020-01-20T16:27:58+02:00
+date = 2020-05-25T16:27:58+02:00
 description = "SelectedTech Webinar 12 Tips & tricks for your Office dev tenant"
 featured = "/img/2020/Episode012.jpg"
 featuredalt = "Episode 12"

@@ -1,7 +1,7 @@
 +++
 author = "SelectedTech"
 categories = ["Chatbot","Bot","Teams","Webinar"]
-date = 2020-05-22T16:37:58+02:00
+date = 2020-06-02T16:37:58+02:00
 description = "SelectedTech Webinar 13 Teams Connectors and Authentication"
 featured = "/img/2020/Episode013.jpg"
 featuredalt = "Episode 13"

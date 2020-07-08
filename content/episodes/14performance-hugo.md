@@ -1,7 +1,7 @@
 +++
 author = "SelectedTech"
 categories = ["Azure","Hugo","Pagespeed","Webinar"]
-date = 2020-05-22T16:45:26+02:00
+date = 2020-06-16T16:45:26+02:00
 description = "SelectedTech Webinar 14 Performance optimization in Hugo"
 featured = "/img/2020/Episode014.jpg"
 featuredalt = "Episode 14"

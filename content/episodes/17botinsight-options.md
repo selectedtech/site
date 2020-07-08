@@ -1,7 +1,7 @@
 +++
 author = "SelectedTech"
 categories = ["Azure","Bot","Teams","Webinar"]
-date = 2020-05-25T20:31:36+02:00
+date = 2020-07-08T14:31:36+02:00
 description = "SelectedTech Webinar 17 Get Insights into your Bot's behaviour"
 featured = "/img/2020/Episode013.jpg"
 featuredalt = "Episode17"
