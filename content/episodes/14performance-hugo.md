@@ -22,7 +22,7 @@ As we are running our Selected Tech site as a static site on [Hugo](https://gohu
 
 Or just listen to the episode here:
 
-{{< buzzsprout 482989 >}}
+{{< buzzsprout 4197050 >}}
 
 ### Updates from SelectedTech
 
