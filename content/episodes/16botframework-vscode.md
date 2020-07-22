@@ -14,7 +14,7 @@ url = "16botframework-vscode"
 
 This episode Stephan walks us through a new community initiative: The Bot Framework Community VS Code Snippets. This plugin helps you to easily adds snippets into your projects. Both for WebChat and LUIS files some handy options are added to your workspace. We walk through the setup of the project and how you can build your own VSCode extensions based on this real life sample.
 
-### Show notes of episode no
+### Show notes of episode 16
 
 - [BFC-VSCode-Snippets](https://marketplace.visualstudio.com/items?itemName=BotFrameworkCommunity.bfc-vscode-snippets)
 - [Git repo for the Bot Builder Community](https://github.com/BotBuilderCommunity/botbuilder-community-tools)

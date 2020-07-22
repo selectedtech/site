@@ -15,7 +15,7 @@ draft = true
 
 In this episode Stephan is walking you through all the options you have when you are building a messaging extension. Showing you how you can easily use the Bot Framework to extend teams. Making it easy to track your todos by adding conversations and messages to planner ot todo righty from the teams client. Awesome demo time!
 
-### Show notes of episode no
+### Show notes of episode 19
 
 - [What are messaging extensions?](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions/)
 - [Bot Framework Teams Messaging Extensions Walkthrough](https://bisser.io/bot-framework-teams-messaging-extensions-walkthrough/)

@@ -15,7 +15,7 @@ draft = true
 
 In Episode 20 we have a guest: [Rutger Knijnenburg](https://twitter.com/knijnops). We talk about building AI models in the Cloud and running them locally. Rutger and Albert-Jan show how to run models using Docker and keep all your data locally. In the case they show how to enrich your on-premises SharePoint data with a local LUIS model.
 
-### Show notes of episode no
+### Show notes of episode 20
 
 - [Global AI Bootcamp 2019 - Using AI to classify your SharePoint Data](https://www.cloudappie.nl/global-ai-bootcamp-2019/)
 - [Project Cortex](http://aka.ms/projectcortex)

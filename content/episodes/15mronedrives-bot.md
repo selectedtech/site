@@ -14,7 +14,7 @@ url = "15mronedrives-bot"
 
 Episode 15 and Stephan walks us through Mr. OneDrives Bot. Mr OneDrives Bot is the digital twin of [Hans Brender](https://hansbrender.com). Stephan and Thommy share their lessons learned on building a public chatbot that contains a large scala of knowledge stored in QnA Maker. As it surfaces its knowledge in multiple languages it is an interesting show for anyone building chatbots!
 
-### Show notes of episode no
+### Show notes of episode 15
 
 - [Mr. OneDrives Bot](https://hansbrender.com/tag/mr-onedrives-bot/)
 - [QnA Maker Lessons Learned + Limits Infographic](https://bisser.io/qna-maker-lessons-learned-limits-infographic/)

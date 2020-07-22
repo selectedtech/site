@@ -14,7 +14,7 @@ url = "17botinsight-options"
 
 Having talked about bots for a few episodes we decided to have look at how improve your code. We looked into analytics options in Chatbots to see if we could get insights into usage of the bot. As well as to performance of the code and our QnA Knowledge base. Stephan shows some dashboard options and we talk on how to implement them. Appie shows how to setup alert rules to monitor unanswered questions without the use of code.
 
-### Show notes of episode no
+### Show notes of episode 17
 
 - [Get notified for missing questions from QnA Maker](https://bisser.io/building-bot-framework-analytics-dashboards-using-application-insights/)
 - [Building Bot Framework Analytics Dashboards using Application Insights](https://www.cloudappie.nl/chatbot-insights-missing-answers/)
