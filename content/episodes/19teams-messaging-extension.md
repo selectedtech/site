@@ -1,7 +1,7 @@
 +++
 author = "SelectedTech"
 categories = ["Bots","Teams","MessagingExtension","Webinar"]
-date = 2020-05-25T20:21:32+02:00
+date = 2020-08-18T20:21:32+02:00
 description = "SelectedTech Webinar 19 Teams Messaging Extension with Bot Framework"
 featured = "/img/2020/Episode019.jpg"
 featuredalt = "Episode10"
