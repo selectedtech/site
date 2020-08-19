@@ -10,21 +10,22 @@ linktitle = ""
 title = "Teams Messaging Extension with Bot Framework"
 type = "post"
 url = "19teams-messaging-extension"
-draft = true
 +++
 
-In this episode Stephan is walking you through all the options you have when you are building a messaging extension. Showing you how you can easily use the Bot Framework to extend teams. Making it easy to track your todos by adding conversations and messages to planner ot todo righty from the teams client. Awesome demo time!
+In this episode Stephan is walking you through all the options you have when you are building a messaging extension. Showing you how you can easily use the Bot Framework to extend teams. Making it easy to track your todos by adding conversations and messages to planner or todo righty from the teams client. Awesome demo time!
 
 ### Show notes of episode 19
 
-- [What are messaging extensions?](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions/)
+- [What are messaging extensions?](https://docs.microsoft.com/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions/)
 - [Bot Framework Teams Messaging Extensions Walkthrough](https://bisser.io/bot-framework-teams-messaging-extensions-walkthrough/)
+- [BFC-VSCode-Snippets](https://marketplace.visualstudio.com/items?itemName=BotFrameworkCommunity.bfc-vscode-snippets)
+- [Git repo for the Bot Builder Community](https://github.com/BotBuilderCommunity/botbuilder-community-tools)
 
-{{< youtube nmLS1C9KxMk >}}
+{{< youtube dp6HqMZJ-wE >}}
 
 Or just listen to the episode here:
 
-{{< buzzsprout 2578093 >}}
+{{< buzzsprout 5062508 >}}
 
 ### Updates from SelectedTech
 
