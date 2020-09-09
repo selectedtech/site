@@ -1,10 +1,10 @@
 +++
 author = "SelectedTech"
 categories = ["Azure","AI","SharePoint","LUIS"]
-date = 2020-09-26T08:40:17+02:00
+date = 2020-09-09T08:40:17+02:00
 description = "SelectedTech Webinar 20 AI in SharePoint on-premises"
 featured = "/img/2020/Episode020.jpg"
-featuredalt = "Episode 21"
+featuredalt = "Episode 20"
 featuredpath = "date"
 linktitle = ""
 title = "AI in SharePoint on-premises"
