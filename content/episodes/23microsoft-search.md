@@ -3,7 +3,7 @@ author = "SelectedTech"
 categories = ["Microsoft365","Search","Webinar"]
 date = 2021-01-18T20:55:53+01:00
 description = "SelectedTech Webinar 23 Microsoft Search"
-featured = "/img/2021/Episode23.jpg"
+featured = "/img/2021/Episode023.jpg"
 featuredalt = "Episode12"
 featuredpath = "date"
 linktitle = ""
@@ -14,7 +14,7 @@ url = "23microsoft-search"
 
 Episode 23 and Appie shows the Microsoft Search. Demoing what it takes to add new content to your index. Setting up for success by adding both anonymous content and authenticated content.
 
-### Show notes of episode no
+### Show notes of episode 23
 
 - [Search Connector overview](https://docs.microsoft.com/en-US/microsoftsearch/connectors-overview)
 - [KQL references](https://docs.microsoft.com/en-US/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference)
