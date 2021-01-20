@@ -10,7 +10,6 @@ linktitle = ""
 title = "Microsoft Search"
 type = "post"
 url = "23microsoft-search"
-draft = true
 +++
 
 Episode 23 and Appie shows the Microsoft Search. Demoing what it takes to add new content to your index. Setting up for success by adding both anonymous content and authenticated content.
@@ -21,11 +20,11 @@ Episode 23 and Appie shows the Microsoft Search. Demoing what it takes to add ne
 - [KQL references](https://docs.microsoft.com/en-US/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference)
 - [Search Layout Designer](https://searchlayoutdesigner.azurewebsites.net/)
 
-{{< youtube nmLS1C9KxMk >}}
+{{< youtube ZSAw-SMScxg >}}
 
 Or just listen to the episode here:
 
-{{< buzzsprout 2578093 >}}
+{{< buzzsprout 7379683 >}}
 
 ### Updates from SelectedTech
 
