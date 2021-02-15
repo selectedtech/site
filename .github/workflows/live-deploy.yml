@@ -1,0 +1,70 @@
+name: Build and deploy live site
+
+defaults:
+  run:
+    shell: bash
+
+# run this workflow on...
+on:
+  # ... all pushes to master
+  push:
+    branches:
+      - master
+env:
+  HUGO_VERSION: 0.80.0
+  SITE_BASEURL: https://www.selectedtech.show/
+  AZURE_STORAGE_ACCOUNT: selectedtech 
+  AZURE_RESOURCE_GROUP: SelectedTech
+  AZURE_SUBSCRIPTION_ID: 1be9cdd2-4d80-45f6-ab98-14612176fda5
+  CND_PROFILE: selectedTechCDN
+  # Be aware that this is the first part of selectedtech.azureedge.net
+  CDN_ENDPOINT: selectedtech
+  # LIVE_AZURE_STORAGE_KEY: <secret>
+
+jobs:
+  ######################################################################
+  # build & deploy the site
+  ######################################################################
+  build-deploy:
+    name: Build and deploy
+    if: "!contains(github.event.head_commit.message,'[skip-ci]')"
+    runs-on: ubuntu-latest
+    steps:
+      ######################################################################
+      # checkout full codebase
+      ######################################################################
+      - name: Checkout repo codebase
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+          clean: true
+          submodules: true
+      ######################################################################
+      # download & install Hugo
+      ######################################################################
+      - name: Download Hugo v${{ env.HUGO_VERSION }} Linux x64
+        run: "wget https://github.com/gohugoio/hugo/releases/download/v${{ env.HUGO_VERSION }}/hugo_${{ env.HUGO_VERSION }}_Linux-64bit.deb -O hugo_${{ env.HUGO_VERSION }}_Linux-64bit.deb"
+      - name: Install Hugo
+        run: sudo dpkg -i hugo*.deb
+      ######################################################################
+      # build site with Hugo
+      ######################################################################
+      - name: Build site with Hugo
+        run: hugo --baseUrl '${{ env.SITE_BASEURL }}'
+      ######################################################################
+      # deploy site with Hugo deploy comment (only deploys diff, use --maxDeletes -1)
+      ######################################################################
+      - name: Deploy build to static site (Azure storage blob)
+        run: hugo deploy
+        env:
+          AZURE_STORAGE_ACCOUNT: ${{ env.AZURE_STORAGE_ACCOUNT }}
+          AZURE_STORAGE_KEY: ${{ secrets.LIVE_AZURE_STORAGE_KEY }}
+      ######################################################################
+      # Purge the CDN
+      ######################################################################:
+      - name: Azure Login
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+      - run: |
+          az cdn endpoint purge -g ${{ env.AZURE_RESOURCE_GROUP }} -n ${{ env.CDN_ENDPOINT }} --profile-name ${{ env.CND_PROFILE }} --subscription ${{ env.AZURE_SUBSCRIPTION_ID }} --content-paths "/*" --no-wait
