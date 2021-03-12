@@ -10,10 +10,9 @@ linktitle = ""
 title = "Single Sign On in Microsoft Teams"
 type = "post"
 url = "25sso-teams-tabs"
-draft = true
 +++
 
-Introduction text
+Celebration episode no. 25! Rick walks us through authentication options in Microsoft Teams. He shows how to setup Single Sign On options when building Tabs. During this first part you get insights in what you need to set up. In part 2 Stephan will walk us through the other scenario's around SSO in ChatBots.
 
 ### Show notes of episode 25
 
@@ -21,11 +20,11 @@ Introduction text
 - [Microsoft Teams authentication flow for tabs](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/auth-flow-tab)
 - [Single sign-on (SSO) support for tabs](https://docs.microsoft.com/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso)
 
-{{< youtube nmLS1C9KxMk >}}
+{{< youtube 316XRviBJDo >}}
 
 Or just listen to the episode here:
 
-{{< buzzsprout 2578093 >}}
+{{< buzzsprout 8127106 >}}
 
 ### Updates from SelectedTech
 
