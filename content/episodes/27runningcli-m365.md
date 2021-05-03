@@ -17,7 +17,7 @@ Episode no. 27! Albert-Jan is showing how to run the CLI for Microsoft 365 in an
 - [CloudAppie - Running CLI for Microsoft 365 as Azure Container Instance](https://www.cloudappie.nl/running-m365-cli-container-instances/)
 - [PnP CLI Microsoft 365](https://pnp.github.io/cli-microsoft365/)
 
-{{< youtube 316XRviBJDo >}}
+{{< youtube Bo2QIFwuztY >}}
 
 Or just listen to the episode here:
 
