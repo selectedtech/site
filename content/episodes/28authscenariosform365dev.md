@@ -4,10 +4,11 @@ categories = ["Azure","Microsoft365","Teams","Authentication"]
 date = 2021-05-03T20:21:35+02:00
 description = "SelectedTech Webinar 28 Authentication scenarios for Microsoft 365 Developers"
 featured = "/img/2021/Episode028.jpg"
+featuredalt = "Episode12"
+featuredpath = "date"
 title = "Authentication scenarios for Microsoft 365 Developers"
 type = "post"
 url = "28auth-scenarios-m365-dev"
-draft = true
 +++
 
 Authentication is hard, we all know that. SO in episode 28 Rick is talking us through different authentication scenarios. From Application Permissions and delegated permissions to managed identity. Including best practices using Key Vault.
@@ -19,11 +20,11 @@ Authentication is hard, we all know that. SO in episode 28 Rick is talking us th
 - [OAuth 2.0 and OpenID Connect protocols on the Microsoft identity platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-protocols)
 - [CLI for Microsoft 365 - add App Role assignment](https://pnp.github.io/cli-microsoft365/cmd/aad/approleassignment/approleassignment-add/)
 
-{{< youtube nmLS1C9KxMk >}}
+{{< youtube ql2hQgACbsg >}}
 
 Or just listen to the episode here:
 
-{{< buzzsprout 2578093 >}}
+{{< buzzsprout 8821541 >}}
 
 ### Updates from SelectedTech
 
