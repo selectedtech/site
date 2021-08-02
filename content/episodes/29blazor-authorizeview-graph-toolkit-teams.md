@@ -1,26 +1,29 @@
 +++
 author = "SelectedTech"
 categories = ["Azure","GraphToolkit","Teams","Webinar"]
-date = 2021-05-03T21:14:24+02:00
+date = 2021-07-29T21:14:24+02:00
 description = "SelectedTech Webinar 29 Using Blazor, AuthorizeView and the Microsoft Graph Toolkit in Teams"
-featured = "/img/2021/Episode028.jpg"
+featured = "/img/2021/Episode029.jpg"
+featuredalt = "Episode29"
+featuredpath = "date"
 title = "Using Blazor, AuthorizeView and the Microsoft Graph Toolkit in Teams"
 type = "post"
 url = "blazor-authorizeview-graph-toolkit-teams"
-draft = true
 +++
 
 Bringing together all the cool new stuff! By using Blazor, AuthorizeView and the Microsoft Graph Toolkit in Teams Thomy shows how Microsoft 365 can use all new technology.
 
 ### Show notes of episode 29
 
-- [Someurl](https://www.selectedtech.show)
+- [Create a Microsoft Teams Tab with Blazor](https://thomy.tech/microsoft-teams-tab-with-blazor/)
+- [The Microsoft Graph Toolkit in Microsoft Teams with Blazor - PNP Call](https://www.youtube.com/watch?v=U9SQcxKpq1g)
+- [Microsoft Graph Toolkit](https://docs.microsoft.com/graph/toolkit/overview)
 
-{{< youtube nmLS1C9KxMk >}}
+{{< youtube ShPe0quDNhg >}}
 
 Or just listen to the episode here:
 
-{{< buzzsprout 2578093 >}}
+{{< buzzsprout 8950970 >}}
 
 ### Updates from SelectedTech
 
