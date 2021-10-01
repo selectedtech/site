@@ -1,16 +1,16 @@
-+++
-author = "SelectedTech"
-categories = ["Azure","Bot","Teams","Webinar"]
-date = 2020-07-22T14:31:36+02:00
-description = "SelectedTech Webinar 18 Blazor for the Teams Developer"
-featured = "/img/2020/Episode018.jpg"
-featuredalt = "Episode12"
-featuredpath = "date"
-linktitle = ""
-title = "Blazor for the Teams Developer"
-type = "post"
-url = "18blazor-teams"
-+++
+---
+author : "SelectedTech"
+categories : ["Azure","Bot","Teams","Webinar"]
+date : 2020-07-22T14:31:36+02:00
+description : "SelectedTech Webinar 18 Blazor for the Teams Developer"
+featured : "/img/2020/Episode018.jpg"
+featuredalt : "Episode12"
+featuredpath : "date"
+linktitle : ""
+title : "Blazor for the Teams Developer"
+type : "post"
+url : "18blazor-teams"
+---
 
 Thommy took the time to play around with Blazor and shows how to create Teams Tabs based on Blazor. On both ends in Blazor, UI and data, you can reuse your C# skills or your existing business logic libraries to bring those to Microsoft Teams as a tab. Demo time on both the Blazor Server and Client-Side of things.
 

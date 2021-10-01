@@ -1,15 +1,15 @@
-+++
-author = "SelectedTech"
-categories = ["M365CLI","Azure","LogicApp","Webinar"]
-date = 2021-04-17T20:17:03+01:00
-description = "SelectedTech Webinar 27 Running CLI for Microsoft 365 as Azure Container Instance"
-featured = "/img/2021/Episode027.jpg"
-featuredalt = "Episode12"
-featuredpath = "date"
-title = "Running CLI for Microsoft 365 as Azure Container Instance"
-type = "post"
-url = "27runningcli-m365"
-+++
+---
+author : "SelectedTech"
+categories : ["M365CLI","Azure","LogicApp","Webinar"]
+date : 2021-04-17T20:17:03+01:00
+description : "SelectedTech Webinar 27 Running CLI for Microsoft 365 as Azure Container Instance"
+featured : "/img/2021/Episode027.jpg"
+featuredalt : "Episode12"
+featuredpath : "date"
+title : "Running CLI for Microsoft 365 as Azure Container Instance"
+type : "post"
+url : "27runningcli-m365"
+---
 
 Episode no. 27! Albert-Jan is showing how to run the CLI for Microsoft 365 in an Azure Container using Managed Identity and orchestrate it from a Logic App, serverless all the way! 🚀
 

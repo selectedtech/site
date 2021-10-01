@@ -1,16 +1,16 @@
-+++
-author = "SelectedTech"
-categories = ["Blazor","Development","Teams","Webinar"]
-date = 2021-09-27T19:56:36+02:00
-description = "SelectedTech Webinar 32 Getting started with Blazor for Microsoft Teams development"
-featured = "/img/2021/Episode032.png"
-featuredalt = "Episode32"
-featuredpath = "date"
-linktitle = ""
-title = "Getting started with Blazor for Microsoft Teams development"
-type = "post"
-url = "getting-started-blazor-teams"
-+++
+---
+author : "SelectedTech"
+categories : ["Blazor","Development","Teams","Webinar"]
+date : 2021-09-27T19:56:36+02:00
+description : "SelectedTech Webinar 32 Getting started with Blazor for Microsoft Teams development"
+featured : "/img/2021/Episode032.png"
+featuredalt : "Episode32"
+featuredpath : "date"
+linktitle : ""
+title : "Getting started with Blazor for Microsoft Teams development"
+type : "post"
+url : "getting-started-blazor-teams"
+---
 
 Episode 32 is our first episode that we run as a trial as a 'live stream'. And all went okay except for some minor tweaks it looks like we will be running live streams for the future events as well. In this first live stream Thommy is talking us through getting started with Blazor and Teams Development. As we have done some recordings on Blazor before it made sense to focus on getting started with with Visual Studio, so you can hit the ground running 🏎. Thommy walks us through the prerequisites and deploying your first app.
 

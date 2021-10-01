@@ -1,16 +1,16 @@
-+++
-author = "SelectedTech"
-categories = ["Azure","Bot","Teams","Webinar"]
-date = 2020-07-08T14:31:36+02:00
-description = "SelectedTech Webinar 17 Get Insights into your Bot's behaviour"
-featured = "/img/2020/Episode017.jpg"
-featuredalt = "Episode17"
-featuredpath = "date"
-linktitle = ""
-title = "Get Insights into your Bot's behaviour"
-type = "post"
-url = "17botinsight-options"
-+++
+---
+author : "SelectedTech"
+categories : ["Azure","Bot","Teams","Webinar"]
+date : 2020-07-08T14:31:36+02:00
+description : "SelectedTech Webinar 17 Get Insights into your Bot's behaviour"
+featured : "/img/2020/Episode017.jpg"
+featuredalt : "Episode17"
+featuredpath : "date"
+linktitle : ""
+title : "Get Insights into your Bot's behaviour"
+type : "post"
+url : "17botinsight-options"
+---
 
 Having talked about bots for a few episodes we decided to have look at how improve your code. We looked into analytics options in Chatbots to see if we could get insights into usage of the bot. As well as to performance of the code and our QnA Knowledge base. Stephan shows some dashboard options and we talk on how to implement them. Appie shows how to setup alert rules to monitor unanswered questions without the use of code.
 

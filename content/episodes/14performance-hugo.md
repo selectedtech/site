@@ -1,16 +1,16 @@
-+++
-author = "SelectedTech"
-categories = ["Azure","Hugo","Pagespeed","Webinar"]
-date = 2020-06-16T16:45:26+02:00
-description = "SelectedTech Webinar 14 Performance optimization in Hugo"
-featured = "/img/2020/Episode014.jpg"
-featuredalt = "Episode 14"
-featuredpath = "date"
-linktitle = ""
-title = "Performance optimization in Hugo"
-type = "post"
-url = "14performance-hugo"
-+++
+---
+author : "SelectedTech"
+categories : ["Azure","Hugo","Pagespeed","Webinar"]
+date : 2020-06-16T16:45:26+02:00
+description : "SelectedTech Webinar 14 Performance optimization in Hugo"
+featured : "/img/2020/Episode014.jpg"
+featuredalt : "Episode 14"
+featuredpath : "date"
+linktitle : ""
+title : "Performance optimization in Hugo"
+type : "post"
+url : "14performance-hugo"
+---
 
 As we are running our Selected Tech site as a static site on [Hugo](https://gohugo.io/) we spend an episode looking on how to tweak performance. Appie shows us on how to use [Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/) to tweak the Hugo output and maximize the performance score of a site. Including tips & tricks and of course the best practices applied to our blogs and selected tech site.
 

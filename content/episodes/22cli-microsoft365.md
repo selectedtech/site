@@ -1,16 +1,16 @@
-+++
-author = "SelectedTech"
-categories = ["Cli for Microsoft365","Microsoft365","SPFx","Webinar"]
-date = 2021-01-05T17:00:02+01:00
-description = "SelectedTech Webinar 22 Getting started with CLI for Microsoft 365"
-featured = "/img/2021/Episode022.jpg"
-featuredalt = "Episode12"
-featuredpath = "date"
-linktitle = ""
-title = "Getting started with CLI for Microsoft 365"
-type = "post"
-url = "22cli-microsoft365"
-+++
+---
+author : "SelectedTech"
+categories : ["Cli for Microsoft365","Microsoft365","SPFx","Webinar"]
+date : 2021-01-05T17:00:02+01:00
+description : "SelectedTech Webinar 22 Getting started with CLI for Microsoft 365"
+featured : "/img/2021/Episode022.jpg"
+featuredalt : "Episode12"
+featuredpath : "date"
+linktitle : ""
+title : "Getting started with CLI for Microsoft 365"
+type : "post"
+url : "22cli-microsoft365"
+---
 
 Finally we got around to record episode 22! Albert-Jan demos the CLI for Microsoft 365, how to install and get started. We show you what you can use the CLI for Microsoft 365 for. We hope to inspire you to play around with it!
 

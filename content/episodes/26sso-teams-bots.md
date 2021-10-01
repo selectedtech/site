@@ -1,16 +1,16 @@
-+++
-author = "SelectedTech"
-categories = ["Teams","TeamsDevelopment","Chatbot","Webinar"]
-date = 2021-04-14T20:17:03+01:00
-description = "SelectedTech Webinar 26 SSO in Microsoft Teams PT 2"
-featured = "/img/2021/Episode026.jpg"
-featuredalt = "Episode12"
-featuredpath = "date"
-linktitle = ""
-title = "Single Sign On in Microsoft Teams for Chatbots"
-type = "post"
-url = "26sso-teams-bots"
-+++
+---
+author : "SelectedTech"
+categories : ["Teams","TeamsDevelopment","Chatbot","Webinar"]
+date : 2021-04-14T20:17:03+01:00
+description : "SelectedTech Webinar 26 SSO in Microsoft Teams PT 2"
+featured : "/img/2021/Episode026.jpg"
+featuredalt : "Episode12"
+featuredpath : "date"
+linktitle : ""
+title : "Single Sign On in Microsoft Teams for Chatbots"
+type : "post"
+url : "26sso-teams-bots"
+---
 
 Episode no. 26! Stephan walks us through authentication options in Microsoft Teams for chatbots. After last episode on the Tabs part we now focus on how to setup everything for chatbots. Showing how to setup Single Sign On (SSO) options when building your bot. During this second part you get insights in what you need to set up both technically and from a code perspective. Making sure you can call the Microsoft Graph without additional authentication calls, providing a chatbot user with a seamless experience.
 

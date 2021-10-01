@@ -1,16 +1,19 @@
-+++
-author = "SelectedTech"
-categories = ["Azure","Bot","Teams","Webinar"]
-date = "2019-05-19"
-description = "SelectedTech Webinar 1"
-featured = "/img/2019/Episode001.jpg"
-featuredalt = "Pic 1"
-featuredpath = "date"
-linktitle = ""
-title = "A No Code QnA Bot In Microsoft Teams"
-type = "post"
-
-+++
+---
+author : "SelectedTech"
+date : "2019-05-19T21:14:24+02:00"
+description : "SelectedTech Webinar 1"
+featured : "/img/2019/Episode001.jpg"
+featuredalt : "Pic 1"
+featuredpath : "date"
+linktitle : ""
+title : "A No Code QnA Bot In Microsoft Teams"
+type : "post"
+categories :
+    - "Azure"
+    - "Bot"
+    - "Teams"
+    - "Webinar"
+---
 
 ## SelectedTech Webinar 1 – A No Code QnA Bot In Microsoft Teams
 

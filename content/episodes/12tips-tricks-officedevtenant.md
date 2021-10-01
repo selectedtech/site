@@ -1,16 +1,16 @@
-+++
-author = "SelectedTech"
-categories = ["Office365","PnP","SharePoint","Webinar"]
-date = 2020-05-25T16:27:58+02:00
-description = "SelectedTech Webinar 12 Tips & tricks for your Office dev tenant"
-featured = "/img/2020/Episode012.jpg"
-featuredalt = "Episode 12"
-featuredpath = "date"
-linktitle = ""
-title = "Tips & tricks for your Office dev tenant"
-type = "post"
-url = "12tips-tricks-officedevtenant"
-+++
+---
+author : "SelectedTech"
+categories : ["Office365","PnP","SharePoint","Webinar"]
+date : 2020-05-25T16:27:58+02:00
+description : "SelectedTech Webinar 12 Tips & tricks for your Office dev tenant"
+featured : "/img/2020/Episode012.jpg"
+featuredalt : "Episode 12"
+featuredpath : "date"
+linktitle : ""
+title : "Tips & tricks for your Office dev tenant"
+type : "post"
+url : "12tips-tricks-officedevtenant"
+---
 
 In this episode Thommy talks us through some best practices for your Development or Demo tenant. He shares his tips to make sure your development tenant stays clean and healthy. Including demo's on how to make sure you have demo content and can provide cool demos!
 

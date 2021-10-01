@@ -1,15 +1,15 @@
-+++
-author = "SelectedTech"
-categories = ["Azure","Bot","Development","Webinar"]
-date = "2019-07-17"
-description = "SelectedTech Webinar 3"
-featured = "/img/2019/Episode003.jpg"
-featuredalt = "Episode 3"
-featuredpath = "date"
-linktitle = ""
-title = "CI/CD with your bot and Azure DevOps"
-type = "post"
-+++
+---
+author : "SelectedTech"
+categories : ["Azure","Bot","Development","Webinar"]
+date : "2019-07-17"
+description : "SelectedTech Webinar 3"
+featured : "/img/2019/Episode003.jpg"
+featuredalt : "Episode 3"
+featuredpath : "date"
+linktitle : ""
+title : "CI/CD with your bot and Azure DevOps"
+type : "post"
+---
 
 The SelectedTech Webinar 003 about using CI/CD with your bot and Azure DevOps is now available. We recorded the session on July 4th 2019. Check it out and leave a comment or send a tweet or message if you have any questions.
 

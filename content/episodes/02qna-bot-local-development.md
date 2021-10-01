@@ -1,16 +1,16 @@
-+++
-author = "SelectedTech"
-categories = ["Azure","Bot","Teams","Webinar"]
-date = "2019-07-08"
-description = "SelectedTech Webinar 2"
-featured = "/img/2019/Episode002.jpg"
-featuredalt = "Episode 2"
-featuredpath = "date"
-linktitle = ""
-title = "QnA bot local development"
-type = "post"
+---
+author : "SelectedTech"
+categories : ["Azure","Bot","Teams","Webinar"]
+date : "2019-07-08"
+description : "SelectedTech Webinar 2"
+featured : "/img/2019/Episode002.jpg"
+featuredalt : "Episode 2"
+featuredpath : "date"
+linktitle : ""
+title : "QnA bot local development"
+type : "post"
 
-+++
+---
 
 The SelectedTech Webinar 002 about local QnA bot development and deployment to Microsoft Azure and Microsoft Teams is now available. We recorded the session on July 4th 2019. Check it out and leave a comment or send a tweet or message if you have any questions.
 

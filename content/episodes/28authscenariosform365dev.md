@@ -1,15 +1,15 @@
-+++
-author = "SelectedTech"
-categories = ["Azure","Microsoft365","Teams","Authentication"]
-date = 2021-05-03T20:21:35+02:00
-description = "SelectedTech Webinar 28 Authentication scenarios for Microsoft 365 Developers"
-featured = "/img/2021/Episode028.jpg"
-featuredalt = "Episode12"
-featuredpath = "date"
-title = "Authentication scenarios for Microsoft 365 Developers"
-type = "post"
-url = "28auth-scenarios-m365-dev"
-+++
+---
+author : "SelectedTech"
+categories : ["Azure","Microsoft365","Teams","Authentication"]
+date : 2021-05-03T20:21:35+02:00
+description : "SelectedTech Webinar 28 Authentication scenarios for Microsoft 365 Developers"
+featured : "/img/2021/Episode028.jpg"
+featuredalt : "Episode12"
+featuredpath : "date"
+title : "Authentication scenarios for Microsoft 365 Developers"
+type : "post"
+url : "28auth-scenarios-m365-dev"
+---
 
 Authentication is hard, we all know that. SO in episode 28 Rick is talking us through different authentication scenarios. From Application Permissions and delegated permissions to managed identity. Including best practices using Key Vault.
 

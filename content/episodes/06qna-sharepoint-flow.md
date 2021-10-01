@@ -1,15 +1,15 @@
-+++
-author = "SelectedTech"
-categories = ["Azure","Development","Flow","SharePoint"]
-date = "2019-08-08"
-description = "SelectedTech Webinar 6"
-featured = "/img/2019/Episode06.png"
-featuredalt = "Episode 6"
-featuredpath = "date"
-linktitle = ""
-title = "QnAMaker, SharePoint and Microsoft Flow"
-type = "post"
-+++
+---
+author : "SelectedTech"
+categories : ["Azure","Development","Flow","SharePoint"]
+date : "2019-08-08"
+description : "SelectedTech Webinar 6"
+featured : "/img/2019/Episode006.png"
+featuredalt : "Episode 6"
+featuredpath : "date"
+linktitle : ""
+title : "QnAMaker, SharePoint and Microsoft Flow"
+type : "post"
+---
 
 In episode 6 of our SelectedTech podcast/webinar series, Albert-Jan introduces his concept of updating the QnAMaker knowledge base with data from SharePoint. To make this as easy as possible he used Microsoft Flow already a couple of times at customer demonstrate the use case of bots updated that way. Talking about Flow at this particular time means we also spend some minutes on the latest license news for PowerApps and Flow.
 

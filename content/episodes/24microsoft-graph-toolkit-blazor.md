@@ -1,16 +1,16 @@
-+++
-author = "SelectedTech"
-categories = ["Teams","Graph","GraphToolKit","Webinar"]
-date = 2021-02-15T20:25:14+01:00
-description = "SelectedTech Webinar 24 Microsoft Graph Toolkit in Blazor"
-featured = "/img/2021/Episode024.jpg"
-featuredalt = "Episode12"
-featuredpath = "date"
-linktitle = ""
-title = "Microsoft Graph Toolkit with Blazor"
-type = "post"
-url = "24microsoft-graph-toolkit-blazor"
-+++
+---
+author : "SelectedTech"
+categories : ["Teams","Graph","GraphToolKit","Webinar"]
+date : 2021-02-15T20:25:14+01:00
+description : "SelectedTech Webinar 24 Microsoft Graph Toolkit in Blazor"
+featured : "/img/2021/Episode024.jpg"
+featuredalt : "Episode12"
+featuredpath : "date"
+linktitle : ""
+title : "Microsoft Graph Toolkit with Blazor"
+type : "post"
+url : "24microsoft-graph-toolkit-blazor"
+---
 
 This time Thommy talks us through what you can achieve with Blazor. Showing off how you can build your own applications using the Microsoft Graph Toolkit to get data from your Microsoft 365 environment. Including the authentication options to make sure your users are authenticated against Azure Active Directory.
 

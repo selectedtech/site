@@ -1,15 +1,15 @@
-+++
-author = "SelectedTech"
-categories = ["Events","Speaking"]
-date = "2019-07-19"
-description = "SelectedTech Webinar 5"
-featured = "/img/2019/Episode005.png"
-featuredalt = "Episode 5"
-featuredpath = "date"
-linktitle = ""
-title = "Interview with Anna Chu about Ignite 2019"
-type = "post"
-+++
+---
+author : "SelectedTech"
+categories : ["Events","Speaking"]
+date : "2019-07-19"
+description : "SelectedTech Webinar 5"
+featured : "/img/2019/Episode005.png"
+featuredalt : "Episode 5"
+featuredpath : "date"
+linktitle : ""
+title : "Interview with Anna Chu about Ignite 2019"
+type : "post"
+---
 
 The SelectedTech Webinar 005 is a special episode. We got a chance to catch up with [Anna Chu](https://twitter.com/_achu) from Microsoft. We talked about the upcoming [Ignite conference](https://www.microsoft.com/en-us/ignite) and why you should be in Orlando in November.
 

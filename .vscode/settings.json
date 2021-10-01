@@ -1,3 +1,42 @@
 {
-    "grammarly.userWords": []
+   "frontMatter.taxonomy.contentTypes": [
+        {
+            "name": "default",
+            "fields": [
+                {
+                    "title": "Title",
+                    "name": "title",
+                    "type": "string"
+                },
+                {
+                    "title": "Publishing date",
+                    "name": "date",
+                    "type": "datetime"
+                },
+                {
+                    "title": "Featured image",
+                    "name": "featured",
+                    "type": "image",
+                    "isPreviewImage": true
+                },
+                {
+                    "title": "Is in draft",
+                    "name": "draft",
+                    "type": "boolean"
+                },
+                {
+                    "title": "Categories",
+                    "name": "categories",
+                    "type": "categories"
+                }
+            ]
+        }
+    ],
+    "frontMatter.content.publicFolder": "static",
+    "frontMatter.content.pageFolders": [
+        {
+            "title": "content",
+            "path": "[[workspace]]/content/episodes"
+        }
+    ]
 }

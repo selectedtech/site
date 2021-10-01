@@ -1,16 +1,16 @@
-+++
-author = "SelectedTech"
-categories = ["Azure","AI","SharePoint","LUIS"]
-date = 2020-09-09T08:40:17+02:00
-description = "SelectedTech Webinar 20 AI in SharePoint on-premises"
-featured = "/img/2020/Episode020.jpg"
-featuredalt = "Episode 20"
-featuredpath = "date"
-linktitle = ""
-title = "AI in SharePoint on-premises"
-type = "post"
-url = "20ai-sharepoint-onprem"
-+++
+---
+author : "SelectedTech"
+categories : ["Azure","AI","SharePoint","LUIS"]
+date : 2020-09-09T08:40:17+02:00
+description : "SelectedTech Webinar 20 AI in SharePoint on-premises"
+featured : "/img/2020/Episode020.jpg"
+featuredalt : "Episode 20"
+featuredpath : "date"
+linktitle : ""
+title : "AI in SharePoint on-premises"
+type : "post"
+url : "20ai-sharepoint-onprem"
+---
 
 In Episode 20 we have a guest: [Rutger Knijnenburg](https://twitter.com/knijnops). We talk about building AI models in the Cloud and running them locally. Rutger and Albert-Jan show how to run models using Docker and keep all your data locally. In the case they show how to enrich your on-premises SharePoint data with a local LUIS model.
 

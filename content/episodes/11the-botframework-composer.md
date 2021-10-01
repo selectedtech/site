@@ -1,15 +1,15 @@
-+++
-author = "SelectedTech"
-categories = ["Azure","Development", "Bots"]
-date = "2019-12-12"
-description = "SelectedTech Webinar 11"
-featured = "/img/2019/Episode011.jpg"
-featuredalt = "Episode 11"
-featuredpath = "date"
-linktitle = ""
-title = "The Bot Framework Composer"
-type = "post"
-+++
+---
+author : "SelectedTech"
+categories : ["Azure","Development", "Bots"]
+date : "2019-12-12"
+description : "SelectedTech Webinar 11"
+featured : "/img/2019/Episode011.jpg"
+featuredalt : "Episode 11"
+featuredpath : "date"
+linktitle : ""
+title : "The Bot Framework Composer"
+type : "post"
+---
 
 The Bot Framework Composer is a new tool from Microsoft helping developers in creating bots with the help of a graphical interface. Its goal is to allow multi-disciplinary teams to build bots and conversational experiences with the Microsoft Bot Framework. The tool is currently available in preview but we already showed it at our ESPC workshop and a couple of other events. The feedback was quite good so we thought it would be a good idea to introduce the tool to a broader audience as well. So tune in to see us creating a Chuck Norris joke bot within minutes.
 

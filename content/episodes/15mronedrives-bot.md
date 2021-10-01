@@ -1,16 +1,16 @@
-+++
-author = "SelectedTech"
-categories = ["Azure","Bot","Teams","Webinar"]
-date = 2020-06-16T14:30:59+02:00
-description = "SelectedTech Webinar 15 Mr. OneDrive's Bot"
-featured = "/img/2020/Episode015.jpg"
-featuredalt = "Episode 15"
-featuredpath = "date"
-linktitle = ""
-title = "Mr. OneDrive's Bot"
-type = "post"
-url = "15mronedrives-bot"
-+++
+---
+author : "SelectedTech"
+categories : ["Azure","Bot","Teams","Webinar"]
+date : 2020-06-16T14:30:59+02:00
+description : "SelectedTech Webinar 15 Mr. OneDrive's Bot"
+featured : "/img/2020/Episode015.jpg"
+featuredalt : "Episode 15"
+featuredpath : "date"
+linktitle : ""
+title : "Mr. OneDrive's Bot"
+type : "post"
+url : "15mronedrives-bot"
+---
 
 Episode 15 and Stephan walks us through Mr. OneDrives Bot. Mr OneDrives Bot is the digital twin of [Hans Brender](https://hansbrender.com). Stephan and Thommy share their lessons learned on building a public chatbot that contains a large scala of knowledge stored in QnA Maker. As it surfaces its knowledge in multiple languages it is an interesting show for anyone building chatbots!
 

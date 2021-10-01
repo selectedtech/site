@@ -1,16 +1,16 @@
-+++
-author = "SelectedTech"
-categories = ["Microsoft365","Search","Webinar"]
-date = 2021-01-18T20:55:53+01:00
-description = "SelectedTech Webinar 23 Microsoft Search"
-featured = "/img/2021/Episode023.jpg"
-featuredalt = "Episode12"
-featuredpath = "date"
-linktitle = ""
-title = "Microsoft Search"
-type = "post"
-url = "23microsoft-search"
-+++
+---
+author : "SelectedTech"
+categories : ["Microsoft365","Search","Webinar"]
+date : 2021-01-18T20:55:53+01:00
+description : "SelectedTech Webinar 23 Microsoft Search"
+featured : "/img/2021/Episode023.jpg"
+featuredalt : "Episode12"
+featuredpath : "date"
+linktitle : ""
+title : "Microsoft Search"
+type : "post"
+url : "23microsoft-search"
+---
 
 Episode 23 and Appie shows the Microsoft Search. Demoing what it takes to add new content to your index. Setting up for success by adding both anonymous content and authenticated content.
 

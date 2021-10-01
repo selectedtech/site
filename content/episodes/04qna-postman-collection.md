@@ -1,15 +1,15 @@
-+++
-author = "SelectedTech"
-categories = ["Azure","Bot","Events","Webinar"]
-date = "2019-07-17"
-description = "SelectedTech Webinar 4"
-featured = "/img/2019/Episode004.jpg"
-featuredalt = "Episode 4"
-featuredpath = "date"
-linktitle = ""
-title = "QnA maker Postman collection"
-type = "post"
-+++
+---
+author : "SelectedTech"
+categories : ["Azure","Bot","Events","Webinar"]
+date : "2019-07-17"
+description : "SelectedTech Webinar 4"
+featured : "/img/2019/Episode004.jpg"
+featuredalt : "Episode 4"
+featuredpath : "date"
+linktitle : ""
+title : "QnA maker Postman collection"
+type : "post"
+---
 
 The SelectedTech Webinar 004 is about how to use Postman to talk to the QnA maker API. [Postman](https://www.getpostman.com/) streamlines the development process and captures a single source of truth about your APIs while also simplifying collaboration across your teams and organisations.
 

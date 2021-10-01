@@ -1,15 +1,15 @@
-+++
-author = "SelectedTech"
-categories = ["M365CLI","Teams","Adoption","Webinar"]
-date = 2021-07-29T21:14:24+02:00
-description = "SelectedTech Webinar 30 Recognizing Team members with CLI for Microsoft 365"
-featured = "/img/2021/Episode030.jpg"
-featuredalt = "Episode30"
-featuredpath = "date"
-title = "Recognizing Team members with CLI for Microsoft 365"
-type = "post"
-url = "recognizing-teammembers-CLIMicrosoft365"
-+++
+---
+author : "SelectedTech"
+categories : ["M365CLI","Teams","Adoption","Webinar"]
+date : 2021-07-29T21:14:24+02:00
+description : "SelectedTech Webinar 30 Recognizing Team members with CLI for Microsoft 365"
+featured : "/img/2021/Episode030.jpg"
+featuredalt : "Episode30"
+featuredpath : "date"
+title : "Recognizing Team members with CLI for Microsoft 365"
+type : "post"
+url : "recognizing-teammembers-CLIMicrosoft365"
+---
 
 In episode 30 Appie shows how you can use the [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) to recognize active team members. Using the reporting functionality he shows how to extract data from your tenant; and post the results to Teams.
 
