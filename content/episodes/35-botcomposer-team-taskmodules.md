@@ -1,7 +1,7 @@
 +++
 author = "SelectedTech"
 categories = ["Development","Microsoft Teams","Task Modules","Bot Composer", "Webinar"]
-date = 2021-09-27T19:56:36+02:00
+date = 2021-11-16T19:56:36+02:00
 description = "SelectedTech Webinar 35 Bot Composer Teams Task Modules"
 featured = "/img/2021/Episode035.png"
 featuredalt = "Episode35"
