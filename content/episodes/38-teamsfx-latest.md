@@ -10,7 +10,6 @@ linktitle = ""
 title = "TeamsFx latest news"
 type = "post"
 url = "teamsfx-latest-news-q1-2022"
-draft = true
 +++
 
 Episode number 38 and Thommy walks us through all the new stuff in the TeamsFx content. How to get started with TeamsFx in Visual Studio, how to set some of the basic configuration and how to debug your first application. A great way to get started with what you can and cannot do with TeamsFx.
@@ -20,7 +19,7 @@ Episode number 38 and Thommy walks us through all the new stuff in the TeamsFx c
 - [Teams FX](https://github.com/OfficeDev/TeamsFx)
 - [Getting started with the Microsoft Teams Framework (TeamsFx)](https://thomy.tech/getting-started-with-the-microsoft-teams-framework-teamsfx/)
 
-{{< youtube mPXpuZYZWJk >}}
+{{< youtube wdtTXp1VBB0 >}}
 
 Or just listen to the episode here:
 
