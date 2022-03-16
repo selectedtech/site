@@ -1,7 +1,7 @@
 +++
 author = "SelectedTech"
 categories = ["Development","Twitter","Teams","TeamsFX", "Webinar"]
-date = 2021-11-23T19:56:36+02:00
+date = 2022-02-04T19:56:36+02:00
 description = "SelectedTech Webinar 38 TeamsFx latest news"
 featured = "/img/2022/E38.png"
 featuredalt = "Episode38"

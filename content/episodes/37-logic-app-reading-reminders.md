@@ -1,7 +1,7 @@
 +++
 author = "SelectedTech"
 categories = ["Development","Twitter","Logic App","Low-Code", "Webinar"]
-date = 2021-11-23T19:56:36+02:00
+date = 2022-01-20T19:56:36+02:00
 description = "SelectedTech Webinar 37 Using Logic Apps to generate reading reminders"
 featured = "/img/2022/E37.png"
 featuredalt = "Episode37"
