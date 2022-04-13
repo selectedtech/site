@@ -2,7 +2,7 @@
 author = "SelectedTech"
 categories = ["Development","Twitter","Exchange","Microsoft Graph", "Webinar"]
 date = 2022-03-07T19:56:36+02:00
-description = "SelectedTech Webinar 38 Microsoft Graph change notifications for custom DLP implementation"
+description = "SelectedTech Webinar 39 Microsoft Graph change notifications for custom DLP implementation"
 featured = "/img/2022/E39.jpg"
 featuredalt = "Episode39"
 featuredpath = "date"
